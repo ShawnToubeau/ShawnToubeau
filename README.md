@@ -9,7 +9,7 @@ Currently learning 📖
 <br />
 <br />
 
-What I use 🧰
+What I use/know 🧰
 
 [<img align="left" alt="ReactJs" height="40px" src="https://raw.githubusercontent.com/ShawnToubeau/files/master/react-logo.svg" />](https://reactjs.org/)
 [<img align="left"  alt="TypeScript" height="40px" src="https://raw.githubusercontent.com/ShawnToubeau/files/master/ts-logo.png" />](https://www.typescriptlang.org/)
