@@ -1,4 +1,4 @@
-### Howdy, I'm Shawn (he/him) 👋
+### Howdy, I'm Shawn (he/him/they/them) 👋
 
 I'm a Frontend software developer working for Infogain @ Facebook 👨‍💻 
 
