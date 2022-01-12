@@ -1,6 +1,6 @@
 ### Howdy, I'm Shawn (he/him/they/them) 👋
 
-I'm a Frontend software developer working for Infogain @ Facebook 👨‍💻 
+I'm a Frontend software developer working for Infogain @ Meta 👨‍💻 
 
 Currently learning 📖 
 
@@ -27,7 +27,8 @@ What I use/know 🧰
 
 Other things I love besides coding 😁 
 - Riding my bike in the city
-- Going to concerts (when it used to be acceptable)
+- Going to concerts
+- Rock climbing
 - Coffee!!
 - Tattoos
 - Plants~
