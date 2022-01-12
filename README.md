@@ -5,7 +5,7 @@ I'm a Frontend software developer working for Infogain @ Meta 👨‍💻
 Currently learning 📖 
 
 [<img align="left" alt="Golang" height="40px" src="https://raw.githubusercontent.com/ShawnToubeau/files/master/go-logo.png" />](https://golang.org/)
-[<img align="left" alt="Golang" height="40px" src="https://raw.githubusercontent.com/ShawnToubeau/files/master/go-logo.png" />](https://www.rust-lang.org/)
+[<img align="left" alt="Golang" height="40px" src="https://github.com/ShawnToubeau/files/blob/master/rust-logo.jpeg" />](https://www.rust-lang.org/)
 
 <br />
 <br />
