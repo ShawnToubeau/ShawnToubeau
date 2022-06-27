@@ -4,9 +4,9 @@ I'm a Fullstack developer working for Infogain @ Meta 👨‍💻
 
 Currently learning 📖 
 
-[<img align="left" alt="Docker" height="40px" src="https://github.com/ShawnToubeau/files/blob/master/docker-logo.png" />](https://www.docker.com/)
+[<img align="left" alt="Docker" height="40px" src="https://raw.githubusercontent.com/ShawnToubeau/files/master/docker-logo.png" />](https://www.docker.com/)
 [<img align="left" alt="Golang" height="40px" src="https://raw.githubusercontent.com/ShawnToubeau/files/master/go-logo.png" />](https://golang.org/)
-[<img align="left" alt="Rust" height="40px" src="https://github.com/ShawnToubeau/files/blob/master/rust-logo.jpeg" />](https://www.rust-lang.org/)
+[<img align="left" alt="Rust" height="40px" src="https://raw.githubusercontent.com/ShawnToubeau/files/master/rust-logo.jpeg" />](https://www.rust-lang.org/)
 
 <br />
 <br />
