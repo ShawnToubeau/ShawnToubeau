@@ -36,4 +36,4 @@ Other things I love besides coding 😁
 
 <br />
 
-Want to chat or tell me a interesting fact? Connect with me on [LinkedIn](https://www.linkedin.com/in/shawn-toubeau/)!
+Feel free to say Hi and connect with me on [LinkedIn](https://www.linkedin.com/in/shawn-toubeau/)!
