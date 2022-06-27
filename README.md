@@ -1,6 +1,6 @@
 ### Howdy, I'm Shawn (he/him) 👋
 
-I'm a Fullstack Developer working for Infogain @ Meta 👨‍💻 
+I'm a Fullstack Software Engineer working for Infogain @ Meta 👨‍💻 
 
 Currently learning 📖 
 
