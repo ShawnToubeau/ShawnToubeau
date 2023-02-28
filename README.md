@@ -15,7 +15,6 @@ What I use/know 🧰
 [<img align="left"  alt="Node.js" height="40px" src="./logos/node-logo.png" />](https://nodejs.org/)
 [<img align="left"  alt="GraphQL" height="40px" src="./logos/graphql-logo.png" />](https://graphql.org/)
 [<img align="left" alt="Jest" height="40px" src="./logos/jest-logo.png" />](https://jestjs.io/)
-[<img align="left" alt="Cypress" height="40px" src="./logos/cypress-logo.png" />](https://www.cypress.io/)
 
 <br />
 <br />
